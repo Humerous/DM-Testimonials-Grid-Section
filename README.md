@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/Humerous/DM-Testimonials-Grid-Section/blob/main/DM-Testimonials-Grid-Section.jpg)
 
 
 ### Links
