@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-- https://github.com/Humerous/DM-Testimonials-Grid-Section/blob/main/DM-Testimonials-Grid-Section.jpg
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 
 ### Links
 
